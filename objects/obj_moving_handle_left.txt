@@ -1,0 +1,7 @@
+sprite=spr_moving_handle_left
+visible=0
+solid=0
+persistent=0
+depth=0
+parent=par_controller
+mask=

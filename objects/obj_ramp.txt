@@ -1,0 +1,7 @@
+sprite=spr_ramp
+visible=1
+solid=0
+persistent=0
+depth=1
+parent=par_ramp
+mask=spr_mask_ramp

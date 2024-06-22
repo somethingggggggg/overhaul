@@ -1,0 +1,7 @@
+sprite=spr_lava_surface
+visible=1
+solid=0
+persistent=0
+depth=-5
+parent=par_harmful_fire
+mask=

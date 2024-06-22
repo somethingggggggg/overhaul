@@ -1,0 +1,7 @@
+sprite=
+visible=1
+solid=0
+persistent=0
+depth=-999996
+parent=par_controller
+mask=

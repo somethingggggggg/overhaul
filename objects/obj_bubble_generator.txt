@@ -1,0 +1,7 @@
+sprite=spr_water_bubble_generator
+visible=1
+solid=0
+persistent=0
+depth=1
+parent=
+mask=

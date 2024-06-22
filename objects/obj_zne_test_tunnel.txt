@@ -1,0 +1,7 @@
+sprite=spr_znt_test_tunnel
+visible=1
+solid=0
+persistent=0
+depth=-1
+parent=par_collision_solid
+mask=spr_znt_test_tunnel_mask

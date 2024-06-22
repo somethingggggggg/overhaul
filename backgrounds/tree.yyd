@@ -1,0 +1,39 @@
++No Way
+	|bg_no_way
++Parallax Backgrounds
+	+Green Hill Zone
+		|bg_ghz_parallax_clouds
+		|bg_ghz_parallax_mountain_1
+		|bg_ghz_parallax_mountain_2
+		|bg_ghz_parallax_mountain_3
+		|bg_ghz_parallax_mountain_4
+		|bg_ghz_parallax_water_1
+		|bg_ghz_parallax_water_2
+		|bg_ghz_parallax_water_3
+		|bg_ghz_parallax_water_4
+	+Flicky Ruins
+		|bg_flicky_ruins_parallax_clouds
+		|bg_flicky_ruins_parallax_mountains01
+		|bg_flicky_ruins_parallax_mountains02
+		|bg_flicky_ruins_parallax_mountains03
+		|bg_flicky_ruins_parallax_cave01
+		|bg_flicky_ruins_parallax_cave02
+		|bg_flicky_ruins_parallax_cave03
+		|bg_flicky_ruins_parallax_cave04
+		|bg_flicky_ruins_parallax_cave05
+		|bg_flicky_ruins_parallax_cave06
+		|background25
+		|bg_flicky_ruins_parallax_cave07
+	+Special Effects
+		|bg_cd_cloud_texture
+		|bg_test_zone
+	+Emerald Hill
+		|bg_emerald_hill
++Tilesets
+	+Test Zone
+		|bg_intro_stars
+		|bg_test_zone_palmtree
+		|background28
+|background29
+|background30
+|background31
