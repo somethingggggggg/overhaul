@@ -1,0 +1,7 @@
+sprite=spr_collision_mask_terrain_tile04
+visible=0
+solid=0
+persistent=0
+depth=-10240
+parent=par_collision_solid
+mask=

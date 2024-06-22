@@ -1,0 +1,7 @@
+sprite=spr_znt_test_loop_low
+visible=1
+solid=0
+persistent=0
+depth=-10
+parent=par_collision_layer_low
+mask=

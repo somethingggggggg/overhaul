@@ -1,0 +1,7 @@
+sprite=spr_rain
+visible=1
+solid=0
+persistent=0
+depth=-9996
+parent=par_controller
+mask=
